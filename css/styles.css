@@ -850,8 +850,7 @@ body {
   border-radius: 2px;
   border: 1px solid var(--main-title-color);
   cursor: pointer;
-  transition: opacity var(--transition-function),
-    background-color var(--transition-function);
+  transition: background-color var(--transition-function);
 }
 
 .checkbox-icon {
